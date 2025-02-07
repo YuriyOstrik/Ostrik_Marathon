@@ -35,7 +35,7 @@
         <TabControl Grid.ColumnSpan="2" Grid.Column="4" HorizontalAlignment="Left" Grid.Row="1" Grid.RowSpan="6" Width="263" Margin="57,61,0,10">
             <TabItem Header="Скорость">
                 <Grid  Background="#FFE5E5E5">
-                    <DataGrid x:Name="gridSpeed" HorizontalAlignment="Left" Width="257" HeadersVisibility="None" AutoGenerateColumns="False" SelectionChanged="gridSpeed_SelectionChanged" SelectionMode="Single" Margin="0,0,0,-2">
+                    <DataGrid x:Name="gridSpeed" HorizontalAlignment="Left" Width="257" HeadersVisibility="None" AutoGenerateColumns="True" SelectionChanged="gridSpeed_SelectionChanged" SelectionMode="Single" Margin="0,0,0,-2">
                         <DataGrid.Columns>
                             <DataGridTemplateColumn Header="Logo" Width="1*">
                                 <DataGridTemplateColumn.CellTemplate>
@@ -52,7 +52,7 @@
             </TabItem>
             <TabItem Header="Длина">
                 <Grid Background="#FFE5E5E5">
-                    <DataGrid Name="gridDistance" HorizontalAlignment="Left" Height="276" VerticalAlignment="Top" Width="257" HeadersVisibility="None" AutoGenerateColumns="False" SelectionChanged="gridDistance_SelectionChanged" SelectionMode="Single">
+                    <DataGrid Name="gridDistance" HorizontalAlignment="Left" Height="276" VerticalAlignment="Top" Width="257" HeadersVisibility="None" AutoGenerateColumns="True" SelectionChanged="gridDistance_SelectionChanged" SelectionMode="Single">
                         <DataGrid.Columns>
                             <DataGridTemplateColumn Header="Logo" Width="1*">
                                 <DataGridTemplateColumn.CellTemplate>
