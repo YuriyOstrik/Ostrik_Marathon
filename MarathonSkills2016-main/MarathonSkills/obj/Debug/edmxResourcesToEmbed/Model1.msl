@@ -89,20 +89,6 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
-    <EntitySetMapping Name="StatisticsMarathon">
-      <EntityTypeMapping TypeName="MarathonModel.StatisticsMarathon">
-        <MappingFragment StoreEntitySet="StatisticsMarathon">
-          <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="ID_Marathon" ColumnName="ID_Marathon" />
-          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
-          <ScalarProperty Name="Time" ColumnName="Time" />
-          <ScalarProperty Name="GeneralTime" ColumnName="GeneralTime" />
-          <ScalarProperty Name="MyPlace" ColumnName="MyPlace" />
-          <ScalarProperty Name="Marathon" ColumnName="Marathon" />
-          <ScalarProperty Name="User" ColumnName="User" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
     <EntitySetMapping Name="sysdiagrams">
       <EntityTypeMapping TypeName="MarathonModel.sysdiagrams">
         <MappingFragment StoreEntitySet="sysdiagrams">

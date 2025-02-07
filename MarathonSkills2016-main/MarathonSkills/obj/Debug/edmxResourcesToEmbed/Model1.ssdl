@@ -81,19 +81,18 @@
     <Property Name="Date" Type="date" Nullable="false" />
     <Property Name="Notes" Type="nvarchar" MaxLength="255" />
   </EntityType>
-  <EntityType Name="StatisticsMarathon">
-    <Key>
-      <PropertyRef Name="ID" />
-    </Key>
-    <Property Name="ID" Type="int" Nullable="false" />
-    <Property Name="ID_Marathon" Type="int" Nullable="false" />
-    <Property Name="ID_User" Type="int" Nullable="false" />
-    <Property Name="Time" Type="datetime" Nullable="false" />
-    <Property Name="GeneralTime" Type="datetime" Nullable="false" />
-    <Property Name="MyPlace" Type="int" Nullable="false" />
-    <Property Name="Marathon" Type="nvarchar" MaxLength="100" Nullable="false" />
-    <Property Name="User" Type="nvarchar" MaxLength="100" Nullable="false" />
-  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "Marathon.dbo.StatisticsMarathon" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
+        <EntityType Name="StatisticsMarathon">
+          <Property Name="ID" Type="int" />
+          <Property Name="ID_Marathon" Type="int" />
+          <Property Name="ID_User" Type="int" />
+          <Property Name="Time" Type="date" />
+          <Property Name="GeneralTime" Type="time" Precision="7" />
+          <Property Name="MyPlace" Type="int" />
+          <Property Name="Marathon" Type="nvarchar" MaxLength="255" />
+          <Property Name="User" Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
   <EntityType Name="sysdiagrams">
     <Key>
       <PropertyRef Name="diagram_id" />
@@ -144,7 +143,6 @@
     <EntitySet Name="Marathon" EntityType="Self.Marathon" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="MarathonMap" EntityType="Self.MarathonMap" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" Schema="dbo" store:Type="Tables" />
-    <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Volunteer" EntityType="Self.Volunteer" Schema="dbo" store:Type="Tables" />

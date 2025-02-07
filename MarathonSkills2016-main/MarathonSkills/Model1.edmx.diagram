@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="c602c6b4ef644d779820057f193228d5" Name="Diagram1">
+      <Diagram DiagramId="fe027739612b48768ba32c0b53aa4c66" Name="Diagram1">
         <EntityTypeShape EntityType="MarathonModel.Card" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="MarathonModel.Fund" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="MarathonModel.HowLong" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
@@ -12,10 +12,9 @@
         <EntityTypeShape EntityType="MarathonModel.Marathon" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
         <EntityTypeShape EntityType="MarathonModel.MarathonMap" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
         <EntityTypeShape EntityType="MarathonModel.SponsorRunner" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="MarathonModel.StatisticsMarathon" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="MarathonModel.sysdiagrams" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="MarathonModel.User" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="MarathonModel.Volunteer" Width="1.5" PointX="2.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonModel.sysdiagrams" Width="1.5" PointX="6.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonModel.User" Width="1.5" PointX="4.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarathonModel.Volunteer" Width="1.5" PointX="6.75" PointY="7.75" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

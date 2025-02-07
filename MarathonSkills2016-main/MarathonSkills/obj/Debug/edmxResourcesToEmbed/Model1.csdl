@@ -81,19 +81,6 @@
     <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
     <Property Name="Notes" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
   </EntityType>
-  <EntityType Name="StatisticsMarathon">
-    <Key>
-      <PropertyRef Name="ID" />
-    </Key>
-    <Property Name="ID" Type="Int32" Nullable="false" />
-    <Property Name="ID_Marathon" Type="Int32" Nullable="false" />
-    <Property Name="ID_User" Type="Int32" Nullable="false" />
-    <Property Name="Time" Type="DateTime" Nullable="false" Precision="3" />
-    <Property Name="GeneralTime" Type="DateTime" Nullable="false" Precision="3" />
-    <Property Name="MyPlace" Type="Int32" Nullable="false" />
-    <Property Name="Marathon" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="User" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-  </EntityType>
   <EntityType Name="sysdiagrams">
     <Key>
       <PropertyRef Name="diagram_id" />
@@ -144,7 +131,6 @@
     <EntitySet Name="Marathon" EntityType="Self.Marathon" />
     <EntitySet Name="MarathonMap" EntityType="Self.MarathonMap" />
     <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" />
-    <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" />
     <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
     <EntitySet Name="User" EntityType="Self.User" />
     <EntitySet Name="Volunteer" EntityType="Self.Volunteer" />

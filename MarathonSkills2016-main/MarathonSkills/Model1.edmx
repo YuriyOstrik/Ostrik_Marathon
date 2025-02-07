@@ -86,19 +86,18 @@
           <Property Name="Date" Type="date" Nullable="false" />
           <Property Name="Notes" Type="nvarchar" MaxLength="255" />
         </EntityType>
+        <!--Ошибки, обнаруженные при создании:
+предупреждение 6013: Первичный ключ в таблице или представлении "Marathon.dbo.StatisticsMarathon" не определен, его не удалось вывести. Эта таблица или представление исключены. Чтобы использовать сущность, необходимо проверить схему, добавить правильные ключи и раскомментировать ее.
         <EntityType Name="StatisticsMarathon">
-          <Key>
-            <PropertyRef Name="ID" />
-          </Key>
-          <Property Name="ID" Type="int" Nullable="false" />
-          <Property Name="ID_Marathon" Type="int" Nullable="false" />
-          <Property Name="ID_User" Type="int" Nullable="false" />
-          <Property Name="Time" Type="datetime" Nullable="false" />
-          <Property Name="GeneralTime" Type="datetime" Nullable="false" />
-          <Property Name="MyPlace" Type="int" Nullable="false" />
-          <Property Name="Marathon" Type="nvarchar" MaxLength="100" Nullable="false" />
-          <Property Name="User" Type="nvarchar" MaxLength="100" Nullable="false" />
-        </EntityType>
+          <Property Name="ID" Type="int" />
+          <Property Name="ID_Marathon" Type="int" />
+          <Property Name="ID_User" Type="int" />
+          <Property Name="Time" Type="time" Precision="7" />
+          <Property Name="GeneralTime" Type="time" Precision="7" />
+          <Property Name="MyPlace" Type="int" />
+          <Property Name="Marathon" Type="nvarchar" MaxLength="255" />
+          <Property Name="User" Type="nvarchar" MaxLength="255" />
+        </EntityType>-->
         <EntityType Name="sysdiagrams">
           <Key>
             <PropertyRef Name="diagram_id" />
@@ -149,7 +148,6 @@
           <EntitySet Name="Marathon" EntityType="Self.Marathon" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="MarathonMap" EntityType="Self.MarathonMap" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" Schema="dbo" store:Type="Tables" />
-          <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Volunteer" EntityType="Self.Volunteer" Schema="dbo" store:Type="Tables" />
@@ -240,19 +238,6 @@
           <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
           <Property Name="Notes" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
         </EntityType>
-        <EntityType Name="StatisticsMarathon">
-          <Key>
-            <PropertyRef Name="ID" />
-          </Key>
-          <Property Name="ID" Type="Int32" Nullable="false" />
-          <Property Name="ID_Marathon" Type="Int32" Nullable="false" />
-          <Property Name="ID_User" Type="Int32" Nullable="false" />
-          <Property Name="Time" Type="DateTime" Nullable="false" Precision="3" />
-          <Property Name="GeneralTime" Type="DateTime" Nullable="false" Precision="3" />
-          <Property Name="MyPlace" Type="Int32" Nullable="false" />
-          <Property Name="Marathon" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-          <Property Name="User" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-        </EntityType>
         <EntityType Name="sysdiagrams">
           <Key>
             <PropertyRef Name="diagram_id" />
@@ -303,7 +288,6 @@
           <EntitySet Name="Marathon" EntityType="Self.Marathon" />
           <EntitySet Name="MarathonMap" EntityType="Self.MarathonMap" />
           <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" />
-          <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" />
           <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
           <EntitySet Name="User" EntityType="Self.User" />
           <EntitySet Name="Volunteer" EntityType="Self.Volunteer" />
@@ -399,20 +383,6 @@
                 <ScalarProperty Name="Amount" ColumnName="Amount" />
                 <ScalarProperty Name="Date" ColumnName="Date" />
                 <ScalarProperty Name="Notes" ColumnName="Notes" />
-              </MappingFragment>
-            </EntityTypeMapping>
-          </EntitySetMapping>
-          <EntitySetMapping Name="StatisticsMarathon">
-            <EntityTypeMapping TypeName="MarathonModel.StatisticsMarathon">
-              <MappingFragment StoreEntitySet="StatisticsMarathon">
-                <ScalarProperty Name="ID" ColumnName="ID" />
-                <ScalarProperty Name="ID_Marathon" ColumnName="ID_Marathon" />
-                <ScalarProperty Name="ID_User" ColumnName="ID_User" />
-                <ScalarProperty Name="Time" ColumnName="Time" />
-                <ScalarProperty Name="GeneralTime" ColumnName="GeneralTime" />
-                <ScalarProperty Name="MyPlace" ColumnName="MyPlace" />
-                <ScalarProperty Name="Marathon" ColumnName="Marathon" />
-                <ScalarProperty Name="User" ColumnName="User" />
               </MappingFragment>
             </EntityTypeMapping>
           </EntitySetMapping>
