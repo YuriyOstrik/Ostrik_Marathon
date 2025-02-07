@@ -50,7 +50,9 @@ namespace MarathonSkills.Runner
             {
                 string marathon = (cmbMarathon.SelectedValue as Marathon).Name;
                 gridResult.ItemsSource = db.Marathon.Where(y => y.Name == marathon).ToList();
+                
             }
+
         }
     }
 }
