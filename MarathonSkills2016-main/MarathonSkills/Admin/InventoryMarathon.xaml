@@ -43,16 +43,15 @@
             </DataGrid.Columns>
         </DataGrid>
         <TextBlock TextWrapping="Wrap" FontSize="18" Foreground="Black" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Column="2" Grid.Row="2" Text="Всего зарегистрировано бегунов на марафон:" Margin="0,11,1,0" FontWeight="Bold"/>
-        <TextBlock Grid.Column="5" Margin="0,17,0,0" Grid.Row="2" TextWrapping="Wrap" Text="TextBlock" Grid.ColumnSpan="2" FontSize="18"/>
 
-        <Button x:Name="btnReport" Content="Отчет" Margin="0,2,74,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="2" >
+        <Button x:Name="btnReport" Content="Отчет" Margin="0,2,74,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="2" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btnAdmission" Content="Поступление" Margin="13,2,0,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="7" Click="btnAdmission_Click" >
+        <Button x:Name="btnAdmission" Content="Поступление" Margin="13,2,0,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="7" Click="btnAdmission_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>

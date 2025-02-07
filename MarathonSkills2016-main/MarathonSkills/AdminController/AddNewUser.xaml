@@ -73,14 +73,14 @@
                     </TransformGroup>
                 </TextBlock.RenderTransform><Run Text="Добавление нового по"/><Run Text="льзователя"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_Reg" Content="Сохранить" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="9" Margin="21,1,0,10" Click="btn_Reg_Click">
+        <Button x:Name="btn_Reg" Content="Сохранить" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="9" Margin="21,1,0,10" Click="btn_Reg_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="9" Margin="6,1,35,10" Click="btn_cancel_Click">
+        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="9" Margin="6,1,35,10" Click="btn_cancel_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>

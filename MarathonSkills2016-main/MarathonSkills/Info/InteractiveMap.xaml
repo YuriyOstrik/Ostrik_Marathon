@@ -40,7 +40,7 @@
             <ColumnDefinition Width="141.712"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <TextBlock Margin="2,10,99,10" TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="9" Grid.Column="4" Grid.Row="1"><Run Text="Информация о "/><Run Text="Marathon Skills 2016"/></TextBlock>
+        <TextBlock Margin="2,10,99,10" TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="9" Grid.Column="4" Grid.Row="1"><Run Text="Информация о "/><Run Text="Marathon Skills 2025"/></TextBlock>
 
 
         <Image Grid.Column="2" HorizontalAlignment="Left" Height="85" Margin="3,5,0,0" Grid.Row="8" VerticalAlignment="Top" Width="100" Grid.RowSpan="4" Grid.ColumnSpan="3"/>

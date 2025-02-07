@@ -50,14 +50,14 @@
             <TextBlock HorizontalAlignment="Left" Margin="188,-3,0,0" TextWrapping="Wrap" Text="Спонсирование бегуна" VerticalAlignment="Top" FontSize="18" Foreground="#FF6C6C6C"/>
             <TextBlock HorizontalAlignment="Left" Margin="10,21,0,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C" Height="56"><Run Text="Пожалуйста "/><Run Text="выберите бегуна"/><Run Text=", "/><Run Text="которого вы хотели бы спонсировать и сумму, которую вы хотели бы спонсировать. Спасибо за вашу поддержку бегунов и их благотворительных учреждений"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_pay" Content="Заплатить" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="5" Grid.Row="11" Margin="0,0,11,29.5" Click="btn_pay_Click">
+        <Button x:Name="btn_pay" Content="Заплатить" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="5" Grid.Row="11" Margin="0,0,11,29.5" Click="btn_pay_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="6" Grid.Row="11" Margin="0,0,10,29.5" Click="btn_cancel_Click" Grid.ColumnSpan="2">
+        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="6" Grid.Row="11" Margin="0,0,10,29.5" Click="btn_cancel_Click" Grid.ColumnSpan="2">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>

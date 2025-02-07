@@ -8,7 +8,7 @@
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen"
         Title="ContactCoordinator" Height="450" Width="600">
-    <Grid>
+    <Grid Background="#FFACAAFF">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="21*"/>
             <ColumnDefinition Width="37*"/>
@@ -21,11 +21,11 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
         <TextBlock HorizontalAlignment="Left" Margin="14,25,0,0" TextWrapping="Wrap" Text="Контакты" VerticalAlignment="Top" FontSize="24" Grid.Column="2"/>
-        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="0,30,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Для получения дополнительной информации пожалуйста свяжитесь с координаторами" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="361" FontSize="16"/>
-        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="0,86,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Телефон: " VerticalAlignment="Top" Width="92" FontSize="16" FontWeight="Bold"/>
-        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="0,123,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" Width="92" FontSize="16" FontWeight="Bold"/>
-        <TextBlock x:Name="txt_tel" Grid.Column="1" HorizontalAlignment="Left" Margin="72,86,0,0" Grid.Row="1" TextWrapping="Wrap" Text="+55 11 9988 7766" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="272" FontSize="16"/>
-        <TextBlock Name="txt_email" Grid.Column="1" HorizontalAlignment="Left" Margin="62,123,0,0" Grid.Row="1" TextWrapping="Wrap" Text="coordinators@marathonskills.org" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="288" FontSize="16"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,30,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Для получения дополнительной информации пожалуйста свяжитесь с координаторами" VerticalAlignment="Top" Width="573" FontSize="24" FontWeight="Bold" Height="121" Grid.ColumnSpan="4"/>
+        <TextBlock HorizontalAlignment="Left" Margin="31,137,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Телефон: " VerticalAlignment="Top" Width="145" FontSize="24" FontWeight="Bold" Grid.ColumnSpan="2" Height="38"/>
+        <TextBlock HorizontalAlignment="Left" Margin="31,206,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" Width="145" FontSize="24" FontWeight="Bold" Grid.ColumnSpan="2" Height="40"/>
+        <TextBlock x:Name="txt_tel" Grid.Column="1" HorizontalAlignment="Left" Margin="59,137,0,0" Grid.Row="1" TextWrapping="Wrap" Text="+791199847796" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="431" FontSize="24" FontWeight="Bold" Height="38"/>
+        <TextBlock Name="txt_email" Grid.Column="1" HorizontalAlignment="Left" Margin="43,206,0,0" Grid.Row="1" TextWrapping="Wrap" Text="coordinators@marathonskills2025.org" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="457" FontSize="24" FontWeight="Bold" Height="40"/>
 
     </Grid>
 </Window>

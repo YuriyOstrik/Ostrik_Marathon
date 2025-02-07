@@ -43,7 +43,7 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="4" Grid.Column="6" Grid.Row="1" Text="Поступление инвентаря" Margin="0,0,6,0"/>
-        <Button x:Name="btnSave" Content="Сохранить" Margin="6,16,3,5" Background="#FFF2F2F2" FontFamily="Arial" FontSize="16" Foreground="Black"  Grid.Row="10" Grid.Column="3" Click="btnSave_Click" Grid.ColumnSpan="2" >
+        <Button x:Name="btnSave" Content="Сохранить" Margin="6,16,3,5" Background="#FFACAAFF" FontFamily="Arial" FontSize="16" Foreground="Black"  Grid.Row="10" Grid.Column="3" Click="btnSave_Click" Grid.ColumnSpan="2" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>

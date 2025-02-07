@@ -67,14 +67,14 @@
                     </TransformGroup>
                 </TextBlock.RenderTransform><Run Text="Добавление/"/><Run Text="Редактирование"/><LineBreak/><Run Text="благотворительных организаци"/><Run Text="й"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_Reg" Content="Сохранить" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="8" Margin="21,1,0,0" Click="btn_Reg_Click">
+        <Button x:Name="btn_Reg" Content="Сохранить" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="8" Margin="21,1,0,0" Click="btn_Reg_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="8" Margin="6,1,35,0" Click="btn_cancel_Click" Grid.ColumnSpan="2">
+        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="8" Margin="6,1,35,0" Click="btn_cancel_Click" Grid.ColumnSpan="2">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
@@ -83,7 +83,7 @@
         </Button>
         <TextBlock Margin="16,10,58.5,0" Grid.Row="4" TextWrapping="Wrap" Grid.Column="6" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="3"><Run Text="Логотип файл"/><Run Text=":"/></TextBlock>
         <TextBlock Margin="16,0,24.5,8" Grid.Row="6" TextWrapping="Wrap" Grid.Column="6" FontFamily="Open Sans Light" FontSize="18" Grid.ColumnSpan="3" Text="Текущий логотип:"/>
-        <Button x:Name="btnShow" Click="btnShow_Click" Content="Просмотр..." Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="10" Grid.Row="5" Margin="0.5,7,1.5,22">
+        <Button x:Name="btnShow" Click="btnShow_Click" Content="Просмотр..." Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="10" Grid.Row="5" Margin="0.5,7,1.5,22">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>

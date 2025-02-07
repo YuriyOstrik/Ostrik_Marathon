@@ -35,8 +35,8 @@ namespace MarathonSkills
         }
         private void timer_Tick(object sender, EventArgs e)
         {
-            d = date - DateTime.Now;
-            txb_Time.Text = "До начала марафона осталось: " + d.Days + " д. " + d.Hours + " ч. " + d.Minutes + " мин. " + d.Seconds + " с. ";
+            
+           
         }
 
         private void btn_back_Click_1(object sender, RoutedEventArgs e)

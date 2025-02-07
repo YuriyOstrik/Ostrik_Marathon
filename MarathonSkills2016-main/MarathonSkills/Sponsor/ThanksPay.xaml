@@ -37,9 +37,9 @@
         </Grid.RowDefinitions>
         <Grid Grid.Column="1" HorizontalAlignment="Left" Height="77" Margin="84,3,0,0" Grid.Row="2" VerticalAlignment="Top" Width="591" Grid.ColumnSpan="6">
             <TextBlock HorizontalAlignment="Left" Margin="142,0,0,0" TextWrapping="Wrap" Text="Спасибо за вашу спонсорскую поддержку" VerticalAlignment="Top" FontSize="16" Foreground="#FF6C6C6C"/>
-            <TextBlock HorizontalAlignment="Left" Margin="19,26,0,5" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C" Height="46"><Run Text="Спасибо за поддержку бегуна на "/><Run Text="Marathon Skills 2016!"/><LineBreak/><Run Text="Ваше пожертвование пойдет в его благотворительную организацию"/></TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="19,26,0,5" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C" Height="46"><Run Text="Спасибо за поддержку бегуна на "/><Run Text="Marathon Skills 2025!"/><LineBreak/><Run Text="Ваше пожертвование пойдет в его благотворительную организацию"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_cancel" Content="Ок" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="18" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="11" Margin="99,0,94,41.5" Click="btn_cancel_Click">
+        <Button x:Name="btn_cancel" Content="Ок" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="18" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="11" Margin="99,0,94,41.5" Click="btn_cancel_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>

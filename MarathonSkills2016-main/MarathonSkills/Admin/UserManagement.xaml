@@ -33,7 +33,7 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock Margin="168,0,10,0" TextWrapping="Wrap" Text="Управление пользователями" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Column="2" Grid.Row="1"/>
-        <Button Name="btnAddUser" Content="+ Добавление&#xD;&#xA;нового" Margin="0,5,26,4" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="2" Grid.Column="2" Grid.RowSpan="2" Click="btnAddUser_Click" >
+        <Button Name="btnAddUser" Content="+ Добавление&#xD;&#xA;нового" Margin="0,5,26,4" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="2" Grid.Column="2" Grid.RowSpan="2" Click="btnAddUser_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
@@ -46,7 +46,7 @@
         <ComboBox Name="cmbSortBy" Grid.Column="5" Margin="0,2" Grid.Row="3" FontSize="16" Text="Имени" Grid.ColumnSpan="2"/>
         <TextBlock Grid.Column="4" Margin="10,0" Grid.Row="3" TextWrapping="Wrap" Text="Сортировать по:" FontSize="18" TextAlignment="Right"/>
         <TextBlock Grid.Column="4" Margin="10,0" Grid.Row="4" TextWrapping="Wrap" Text="Поиск:" FontSize="18" TextAlignment="Right"/>
-        <Button x:Name="btnUser_Copy" Content="Обновить" Margin="0,3,0.333,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="5" Grid.Column="5" Click="btnUser_Copy_Click" >
+        <Button x:Name="btnUser_Copy" Content="Обновить" Margin="0,3,0.333,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="5" Grid.Column="5" Click="btnUser_Copy_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
@@ -81,7 +81,7 @@
             </DataGrid.Columns>
         </DataGrid>
         <TextBox x:Name="txbFind" Grid.Column="5" Grid.Row="4" TextWrapping="Wrap" Text="" Margin="0,2" Grid.ColumnSpan="2"/>
-        <Button x:Name="btnClear" Content="X" Margin="0,3,0,0" Background="#FFF2F2F2" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="5" Grid.Column="6" Click="btnClear_Click" >
+        <Button x:Name="btnClear" Content="X" Margin="0,3,0,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="5" Grid.Column="6" Click="btnClear_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>

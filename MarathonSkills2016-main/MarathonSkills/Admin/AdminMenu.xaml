@@ -30,28 +30,28 @@
 
         <TextBlock Margin="6,10,10,10" TextWrapping="Wrap" Text="Меню администратора" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="3" Grid.Column="2" Grid.Row="1"/>
 
-        <Button Name="btnFund" Content="Благотворительные&#xD;&#xA;организации" Margin="10" Background="#FFF2F2F2" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="3"  Grid.Column="1" Grid.ColumnSpan="2" Click="btnFund_Click">
+        <Button Name="btnFund" Content="Благотворительные&#xD;&#xA;организации" Margin="10" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="3"  Grid.Column="1" Grid.ColumnSpan="2" Click="btnFund_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button Name="btnUser" Content="Пользователи" Margin="10" Background="#FFF2F2F2" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Click="btnUser_Click">
+        <Button Name="btnUser" Content="Пользователи" Margin="10" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Click="btnUser_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btnValunteer" Content="Волонтеры" Margin="10" Background="#FFF2F2F2" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2" Click="btnValunteer_Click">
+        <Button x:Name="btnValunteer" Content="Волонтеры" Margin="10" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2" Click="btnValunteer_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btnInventory" Content="Инвентарь" Margin="10" Background="#FFF2F2F2" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2" Click="btnInventory_Click">
+        <Button x:Name="btnInventory" Content="Инвентарь" Margin="10" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" FontStyle="Italic" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2" Click="btnInventory_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>

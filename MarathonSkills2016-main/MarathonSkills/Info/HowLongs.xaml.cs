@@ -19,7 +19,7 @@ namespace MarathonSkills.Info
     /// Логика взаимодействия для HowLong.xaml
     /// </summary>
     public partial class HowLongs : Page
-    {
+    {   
         MarathonEntities1 db = new MarathonEntities1();
         public HowLongs()
         {

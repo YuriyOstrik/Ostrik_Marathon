@@ -91,7 +91,7 @@ namespace MarathonSkills.Runner
                                     }
                                     catch
                                     {
-                                        MessageBox.Show("Не удалось зарегистрирвоать пользователя","Ошибка");
+                                        MessageBox.Show("Не удалось зарегистрировать пользователя","Ошибка");
                                     }
                                 }
                                 else
@@ -158,7 +158,7 @@ namespace MarathonSkills.Runner
 
         private void txb_pathphoto_GotFocus(object sender, RoutedEventArgs e)
         {
-            txb_pathphoto.Text = "";
+            
         }
     }
 }

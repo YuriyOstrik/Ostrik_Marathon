@@ -59,14 +59,14 @@
 
         </Grid>
 
-        <Button x:Name="btnShowSerf" Content="Показ&#xD;&#xA;сертификата" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="1" Grid.Row="13" Margin="0,0,53,1" Click="btnShowSerf_Click" Grid.ColumnSpan="2">
+        <Button x:Name="btnShowSerf" Content="Показ&#xD;&#xA;сертификата" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="1" Grid.Row="13" Margin="0,0,53,1" Click="btnShowSerf_Click" Grid.ColumnSpan="2">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="5"/>
                 </Style>
             </Button.Resources>
         </Button>
-        <Button x:Name="btnPrintB" Content="Печать бейджа" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="13" Margin="14,1,14,0" Click="btnPrintB_Click" Grid.ColumnSpan="3">
+        <Button x:Name="btnPrintB" Content="Печать бейджа" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="13" Margin="14,1,14,0" Click="btnPrintB_Click" Grid.ColumnSpan="3">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="5"/>
@@ -81,7 +81,7 @@
         <TextBlock Grid.Row="11" TextWrapping="Wrap" Grid.Column="1" FontFamily="Open Sans Light" FontSize="18" TextAlignment="Right" Margin="0,0,0,1" Grid.ColumnSpan="2"><Run Text="Дистанция"/><Run Text=":"/></TextBlock>
         <TextBlock x:Name="txbEmail" TextWrapping="Wrap" FontSize="18" Foreground="#FF6C6C6C" RenderTransformOrigin="0.5,0.5" Text="" Grid.Column="4" Grid.Row="2" Grid.ColumnSpan="4" Margin="0,0,67,0" />
 
-        <Button x:Name="btnEditProf" Content="Редактирование&#xD;&#xA;профиля" Background="#FFF2F2F2" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="9" Grid.Row="13" Margin="49,1,0,0" Click="btnEditProf_Click" Grid.ColumnSpan="2">
+        <Button x:Name="btnEditProf" Content="Редактирование&#xD;&#xA;профиля" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="9" Grid.Row="13" Margin="49,1,0,0" Click="btnEditProf_Click" Grid.ColumnSpan="2">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="5"/>
