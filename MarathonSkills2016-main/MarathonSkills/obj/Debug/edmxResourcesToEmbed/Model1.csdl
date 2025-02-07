@@ -8,9 +8,9 @@
     <Property Name="ID_Sponsor" Type="Int32" />
     <Property Name="NameCard" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="NumCard" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="TimeEnd" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TimeEnd" Type="String" MaxLength="7" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="CVC" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="SponsorRunner" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SponsorRunnerID" Type="Int32" />
   </EntityType>
   <EntityType Name="Fund">
     <Key>
@@ -101,11 +101,25 @@
     <Property Name="version" Type="Int32" />
     <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
   </EntityType>
-  <EntityType Name="User">
+  <EntityType Name="Volunteer">
     <Key>
       <PropertyRef Name="ID" />
     </Key>
     <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Country" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Email" />
+      <PropertyRef Name="Password" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="Surname" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
@@ -123,16 +137,6 @@
     <Property Name="Inventory" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
     <Property Name="StatisticsMarathon" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
   </EntityType>
-  <EntityType Name="Volunteer">
-    <Key>
-      <PropertyRef Name="ID" />
-    </Key>
-    <Property Name="ID" Type="Int32" Nullable="false" />
-    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-    <Property Name="Country" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
-    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="Surname" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
-  </EntityType>
   <EntityContainer Name="MarathonEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Card" EntityType="Self.Card" />
     <EntitySet Name="Fund" EntityType="Self.Fund" />
@@ -143,7 +147,7 @@
     <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" />
     <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" />
     <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
-    <EntitySet Name="User" EntityType="Self.User" />
     <EntitySet Name="Volunteer" EntityType="Self.Volunteer" />
+    <EntitySet Name="User" EntityType="Self.User" />
   </EntityContainer>
 </Schema>

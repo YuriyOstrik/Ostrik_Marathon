@@ -10,7 +10,7 @@
           <ScalarProperty Name="NumCard" ColumnName="NumCard" />
           <ScalarProperty Name="TimeEnd" ColumnName="TimeEnd" />
           <ScalarProperty Name="CVC" ColumnName="CVC" />
-          <ScalarProperty Name="SponsorRunner" ColumnName="SponsorRunner" />
+          <ScalarProperty Name="SponsorRunnerID" ColumnName="SponsorRunnerID" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -111,6 +111,17 @@
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
+    <EntitySetMapping Name="Volunteer">
+      <EntityTypeMapping TypeName="MarathonModel.Volunteer">
+        <MappingFragment StoreEntitySet="Volunteer">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
     <EntitySetMapping Name="User">
       <EntityTypeMapping TypeName="MarathonModel.User">
         <MappingFragment StoreEntitySet="User">
@@ -131,17 +142,6 @@
           <ScalarProperty Name="Fund" ColumnName="Fund" />
           <ScalarProperty Name="Inventory" ColumnName="Inventory" />
           <ScalarProperty Name="StatisticsMarathon" ColumnName="StatisticsMarathon" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="Volunteer">
-      <EntityTypeMapping TypeName="MarathonModel.Volunteer">
-        <MappingFragment StoreEntitySet="Volunteer">
-          <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="Gender" ColumnName="Gender" />
-          <ScalarProperty Name="Country" ColumnName="Country" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Surname" ColumnName="Surname" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

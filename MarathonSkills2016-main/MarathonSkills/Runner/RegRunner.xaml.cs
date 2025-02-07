@@ -26,7 +26,7 @@ namespace MarathonSkills.Runner
         public RegRunner()
         {
             InitializeComponent();
-            var gender = new List<string> { "Male", "Female" };
+            var gender = new List<string> { "М", "Ж" };
             var country = new List<string>
             {
                 "Andora", "Argentina", "Australia","Austria","Belgium","Botswana","Brazil","Bulgaria","Cameroon","Canada","Central Africa","Chile","China","Chinese Taipei","Colombia","Croatia","Czech Republic","Denmark","Dominican Republic","Ecuador","Egypt","El Salvador","Equatorial Guinea","Esonia","Finland","France","Germany","Greece","Guatemala","Guinea","Guinea-Bissau","Honduras","Hong Kong","Hungary","India","Indonesia","Ireland","Israel","Italy","Ivory Coast","Jamaica","Japan","Jordan","Kenya","Latvia", "Liechtenstein","Lithuania","Luxemburg", "Macau", "Macedonia", "Madagascar", "Malaysia", "Mali", "Malta", "Mauritius", "Mexico", "Moldova", "Monaco", "Montenegro", "Netherlands", "New Zealand", "Nicaragua", "Niger", "Norway", "Panama", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar", "Romania", "Russia", "Saudi Arabia", "Senegal", "Singapore","Slovakia", "South Africa", "South Korea", "Spain", "Sweden", "Switzerland", "Thailand", "Turkey", "Unitied Arab Emirates", "Inited Kingdom", "Uruguay", "USA", "Vatican", "Venezuela", "Vietnam"
