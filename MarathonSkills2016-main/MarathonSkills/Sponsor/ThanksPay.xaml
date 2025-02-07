@@ -39,12 +39,18 @@
             <TextBlock HorizontalAlignment="Left" Margin="142,0,0,0" TextWrapping="Wrap" Text="Спасибо за вашу спонсорскую поддержку" VerticalAlignment="Top" FontSize="16" Foreground="#FF6C6C6C"/>
             <TextBlock HorizontalAlignment="Left" Margin="19,26,0,5" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C" Height="46"><Run Text="Спасибо за поддержку бегуна на "/><Run Text="Marathon Skills 2025!"/><LineBreak/><Run Text="Ваше пожертвование пойдет в его благотворительную организацию"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_cancel" Content="Ок" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="18" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="11" Margin="99,0,94,41.5" Click="btn_cancel_Click">
+        <Button x:Name="btn_cancel" Content="Ок" FontFamily="Open Sans Light" FontSize="18" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="11" Margin="99,0,94,41.5" Click="btn_cancel_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBlock Name="txbUser" HorizontalAlignment="Right" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Margin="0,4,7,0" Grid.Column="3" FontFamily="Open Sans Light" FontSize="14" Width="267" FontWeight="Bold" TextAlignment="Center"><Run Text="Иван Прудов (204) из "/><Run Text="Russia"/></TextBlock>
         <TextBlock x:Name="txt_fund" Grid.Row="6" TextWrapping="Wrap" VerticalAlignment="Top" Height="19" Margin="67,3,60,0" Grid.Column="3" FontFamily="Open Sans Light" FontSize="14" TextAlignment="Center"><Run Text="Фонд "/><Run Text="К"/><Run Text="ошек"/></TextBlock>

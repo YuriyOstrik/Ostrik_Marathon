@@ -73,19 +73,31 @@
                     </TransformGroup>
                 </TextBlock.RenderTransform><Run Text="Добавление нового по"/><Run Text="льзователя"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_Reg" Content="Сохранить" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="9" Margin="21,1,0,10" Click="btn_Reg_Click">
+        <Button x:Name="btn_Reg" Content="Сохранить" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="4" Grid.Row="9" Margin="21,1,0,10" Click="btn_Reg_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="9" Margin="6,1,35,10" Click="btn_cancel_Click">
+        <Button x:Name="btn_cancel" Content="Отмена" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Grid.Column="5" Grid.Row="9" Margin="6,1,35,10" Click="btn_cancel_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBlock Margin="14,16,4.5,0" Grid.Row="4" TextWrapping="Wrap" FontFamily="Open Sans Light" FontSize="18" Grid.Column="5" Grid.ColumnSpan="2" TextAlignment="Right" Text="Пароль:"/>
 

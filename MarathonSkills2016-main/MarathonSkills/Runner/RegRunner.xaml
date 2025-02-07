@@ -49,12 +49,18 @@
         <Rectangle Grid.Column="6" Fill="#FFEAEAEA" HorizontalAlignment="Left" Height="100" Grid.Row="2" Grid.RowSpan="4" Stroke="Black" VerticalAlignment="Bottom" Width="90" Margin="3,0,0,10"/>
         <TextBlock Grid.Column="6" Margin="29,5,32,4" Grid.Row="3" TextWrapping="Wrap" Text="Фото" FontFamily="Open Sans Light" FontSize="14"/>
         <Image Name="imgAvatar" Grid.Column="6" HorizontalAlignment="Left" Height="100" Margin="3,0,0,10" Grid.Row="2" Grid.RowSpan="4" VerticalAlignment="Bottom" Width="90"/>
-        <Button Name="btn_source" Content="Просмотр..." Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="6" Grid.Row="6" Click="btn_source_Click">
+        <Button Name="btn_source" Content="Просмотр..." FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="6" Grid.Row="6" Click="btn_source_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <Grid Grid.Column="4" Margin="5,0,0,0" Grid.Row="7" Grid.ColumnSpan="3">
             <Grid.ColumnDefinitions>
@@ -78,19 +84,31 @@
             <TextBlock HorizontalAlignment="Left" Margin="194,-4,0,0" TextWrapping="Wrap" Text="Регистрация бегуна" VerticalAlignment="Top" FontSize="22" Foreground="#FF6C6C6C" Height="29"/>
             <TextBlock HorizontalAlignment="Left" Margin="10,21,0,6" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C"><Run Text="Пожалуйста заполните всю информацию, чтобы зарегистрировать"/><Run Text="с"/><Run Text="я в качестве бегуна"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_Reg" Content="Регистрация" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="2" Grid.Row="9" Margin="0,0,0,10" Click="btn_Reg_Click">
+        <Button x:Name="btn_Reg" Content="Регистрация" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="2" Grid.Row="9" Margin="0,0,0,10" Click="btn_Reg_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="4" Grid.Row="9" Margin="0,0,156,10">
+        <Button x:Name="btn_cancel" Content="Отмена" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="4" Grid.Row="9" Margin="0,0,156,10">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
 
     </Grid>

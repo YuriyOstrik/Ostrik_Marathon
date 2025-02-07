@@ -43,19 +43,31 @@
             <TextBlock HorizontalAlignment="Left" Margin="182,0,0,0" TextWrapping="Wrap" Text="Форма авторизации" VerticalAlignment="Top" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Height="26"/>
             <TextBlock HorizontalAlignment="Left" Margin="10,21,0,6" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C"><Run Text="Пожалуйста "/><Run Text="авторизируйтесь в системе"/><Run Text=", "/><Run Text="используя ваш адрес электронной почты или пароль."/></TextBlock>
         </Grid>
-        <Button x:Name="btn_auth" Content="Авторизация" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="7" Margin="0,0,14.333,1" Click="btn_Reg_Click">
+        <Button x:Name="btn_auth" Content="Авторизация" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="7" Margin="0,0,14.333,1" Click="btn_Reg_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btn_cancel" Content="Отмена" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="4" Grid.Row="7" Margin="0,0,64,1" Click="btn_cancel_Click">
+        <Button x:Name="btn_cancel" Content="Отмена" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="96" Height="24" VerticalAlignment="Bottom" Grid.Column="4" Grid.Row="7" Margin="0,0,64,1" Click="btn_cancel_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
 
     </Grid>

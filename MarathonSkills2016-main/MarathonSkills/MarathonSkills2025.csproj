@@ -445,6 +445,10 @@
     <Resource Include="Icons8-Ios7-Sports-Exercise.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="uymnhtgbfvcd.png" />
+    <Resource Include="fon.jpg" />
+    <Resource Include="i.jpg" />
+    <Resource Include="3325yherb.png" />
     <Content Include="Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>

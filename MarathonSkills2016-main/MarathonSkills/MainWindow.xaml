@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:MarathonSkills"
         mc:Ignorable="d"
         WindowStartupLocation="CenterScreen"
-        Title="Marathon Skills 2025" Height="187.5" Width="290" Background="#FFC2F1B8" MinWidth="800" MinHeight="500">
+        Title="Marathon Skills 2025" Height="187.5" Width="290" MinWidth="800" MinHeight="500">
+    <Window.Background>
+        <ImageBrush ImageSource="/fon.jpg"/>
+    </Window.Background>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="135"/>
@@ -21,38 +24,44 @@
 
         <Rectangle StrokeThickness="0" Height="52" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.RowSpan="2">
             <Rectangle.Fill>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="#FF8C89FD"/>
-                    <GradientStop Color="#FFA75FA7" Offset="1"/>
-                </LinearGradientBrush>
+                <ImageBrush ImageSource="/i.jpg" Stretch="UniformToFill"/>
             </Rectangle.Fill>
         </Rectangle>
-        <Button Name="btn_back" Content="Назад" Margin="0,0,10,8" Background="{x:Null}" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="116" Height="36" VerticalAlignment="Bottom" Click="btn_back_Click_1" FontWeight="Bold">
+        <Button Name="btn_back" Content="Назад" Margin="0,0,10,8" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="116" Height="36" VerticalAlignment="Bottom" Click="btn_back_Click_1" FontWeight="Bold">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <Rectangle StrokeThickness="0" MinWidth="670" Grid.ColumnSpan="3" Grid.Row="2" Height="24" VerticalAlignment="Bottom" >
             <Rectangle.Fill>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="#FF8C89FD"/>
-                    <GradientStop Color="#FFA75FA7" Offset="1"/>
-                </LinearGradientBrush>
+                <ImageBrush ImageSource="/i.jpg" Stretch="UniformToFill"/>
             </Rectangle.Fill>
         </Rectangle>
 
         <TextBlock Margin="21,9,188.667,0" TextWrapping="Wrap" Text="MARATHON SKILLS 2025" Foreground="White" FontSize="26" HorizontalAlignment="Center" Width="324" Height="37" VerticalAlignment="Top" TextAlignment="Center" FontFamily="Open Sans Semibold" Grid.Column="1" FontWeight="Bold"/>
-        <Button x:Name="btnLogout" Content="Logout" Margin="0,0,10,8" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="116" Height="36" VerticalAlignment="Bottom" Click="btnLogout_Click" Grid.Column="2" Background="{x:Null}" FontWeight="Bold">
+        <Button x:Name="btnLogout" Content="Logout" Margin="0,0,10,8" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" HorizontalAlignment="Right" Width="116" Height="36" VerticalAlignment="Bottom" Click="btnLogout_Click" Grid.Column="2" FontWeight="Bold">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="10"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <Frame Name="mainFrame" NavigationUIVisibility="Hidden" Content="" Grid.ColumnSpan="3" Grid.RowSpan="3"/>
-        <Label Grid.Column="1" Content="Быстрее, Выше, Сильнее!" FontSize="22" Foreground="White"  Grid.Row="1" RenderTransformOrigin="0.506,0.237" Margin="124,379,124,0" Grid.RowSpan="2" FontFamily="Open Sans Semibold"/>
+        <Label Grid.Column="1" Content="Быстрее, Выше, Сильнее!" HorizontalAlignment="Center" FontSize="21" Foreground="White"  Grid.Row="1" RenderTransformOrigin="0.506,0.237" FontFamily="Open Sans Semibold" Width="250" Margin="0,0,0,-24" Grid.RowSpan="2" Height="55" VerticalAlignment="Bottom"/>
 
     </Grid>
 </Window>

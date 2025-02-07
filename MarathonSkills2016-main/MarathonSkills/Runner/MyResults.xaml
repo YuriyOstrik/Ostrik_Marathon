@@ -38,12 +38,18 @@
             <TextBlock HorizontalAlignment="Left" Margin="67,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Width="462" Text="Мои результаты"/>
             <TextBlock HorizontalAlignment="Left" Margin="21,51,0,10" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C" Height="61"><Run Text="Это - список всех ваших прошлых результатов гонки для "/><Run Text="Marathon Skills."/><LineBreak/><Run Text="Общее место сравнивает всех бегунов."/><LineBreak/><Run Text="Место по категории "/><Run Text="compares runners in the same gender and age categories"/></TextBlock>
         </Grid>
-        <Button x:Name="btn_showallresults" Content="Показать все результаты" Background="#FFACAAFF" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="10" Margin="59,0,58,17.5" Click="btn_showallresults_Click">
+        <Button x:Name="btn_showallresults" Content="Показать все результаты" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="10" Margin="59,0,58,17.5" Click="btn_showallresults_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBlock Grid.Column="3" HorizontalAlignment="Left" Margin="5,5,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Пол:" VerticalAlignment="Top" FontWeight="Bold"/>
         <TextBlock Name="txt_gender" Grid.Column="3" HorizontalAlignment="Left" Margin="37,5,0,0" Grid.Row="3" TextWrapping="Wrap" Text="мужской" VerticalAlignment="Top"/>

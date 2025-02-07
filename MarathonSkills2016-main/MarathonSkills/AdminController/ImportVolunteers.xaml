@@ -41,28 +41,46 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock Margin="15,0,10,0" TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="5" Grid.Column="4" Grid.Row="1"><Run Text="Управление "/><Run Text="волонтерами"/></TextBlock>
-        <Button Name="btnOpenFolder" Content="Просмотр..." Margin="10,6,10,4" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="3" Grid.Column="9" Grid.ColumnSpan="2" Click="btnOpenFolder_Click" >
+        <Button Name="btnOpenFolder" Content="Просмотр..." Margin="10,6,10,4" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="3" Grid.Column="9" Grid.ColumnSpan="2" Click="btnOpenFolder_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBlock Grid.Column="2" Margin="0,6,10,4" Grid.Row="3" TextWrapping="Wrap" FontSize="18" TextAlignment="Right" Grid.ColumnSpan="3"><Run Text="CSV "/><Run Text="файл волонтеров"/></TextBlock>
         <TextBox x:Name="txbFilePath" Grid.ColumnSpan="4" IsReadOnly="True" Grid.Column="5" FontSize="18" Margin="10,6,23,4" Grid.Row="3" TextWrapping="Wrap" Text="файл.."/>
-        <Button x:Name="btnAddInBd" Content="Загрузка" Margin="2,6,0,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="5" Click="btnAddInBd_Click" >
+        <Button x:Name="btnAddInBd" Content="Загрузка" Margin="2,6,0,0" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="5" Click="btnAddInBd_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btnCancel" Content="Отмена" Margin="16,6,0,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="6" Click="btnCancel_Click" Grid.ColumnSpan="2" >
+        <Button x:Name="btnCancel" Content="Отмена" Margin="16,6,0,0" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="6" Click="btnCancel_Click" Grid.ColumnSpan="2" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBlock  Margin="0,10,8,0" TextWrapping="Wrap" FontSize="18" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="6" Grid.Column="4" Grid.Row="5"><Run Text="CSV "/><Run Text="файл должен иметь следующие поля:"/></TextBlock>
         <TextBlock Margin="0,5,0,0" TextWrapping="Wrap" FontSize="18" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="5" Grid.Column="4" Grid.Row="6"><Run Text="Поле1: "/><Run Text="Имя,Фамилия,Страна,Пол"/></TextBlock>

@@ -34,12 +34,18 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock Margin="22.5,0,9.512,0" TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="5" Grid.Column="3" Grid.Row="1"><Run Text="Управление "/><Run Text="волонтерами"/></TextBlock>
-        <Button Name="btnAddVol" Content="Загрузка волонтеров" Margin="43.979,1,0.021,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="3" Grid.Column="7" Grid.ColumnSpan="2" Click="btnAddVol_Click" >
+        <Button Name="btnAddVol" Content="Загрузка волонтеров" Margin="43.979,1,0.021,0" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="3" Grid.Column="7" Grid.ColumnSpan="2" Click="btnAddVol_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
 
         <ComboBox x:Name="cmbSort" Grid.Column="3" Margin="0.49,0,0.021,6" Grid.Row="3" FontSize="18" Text="Фамилии" Grid.ColumnSpan="3"/>
@@ -60,12 +66,18 @@
         </DataGrid>
         <TextBlock Margin="4,10,56.512,10" TextWrapping="Wrap" FontSize="18" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="4" Grid.Column="2" Grid.Row="2" Text="Сортировка и фильтрация"/>
         <TextBlock Margin="44.488,10,23.512,9" TextWrapping="Wrap" FontSize="18" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="2" Grid.Column="7" Grid.Row="2" Text="Загрузка"/>
-        <Button x:Name="btnUpdate" Content="Обновить" Margin="0.49,8,12.51,5" Background="#FFACAAFF" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="3" Grid.ColumnSpan="2" Click="btnUpdate_Click" >
+        <Button x:Name="btnUpdate" Content="Обновить" Margin="0.49,8,12.51,5" FontFamily="Arial" FontSize="18" Foreground="Black"  Grid.Row="4" Grid.Column="3" Grid.ColumnSpan="2" Click="btnUpdate_Click" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
 
 

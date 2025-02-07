@@ -43,12 +43,18 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock TextWrapping="Wrap" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Grid.ColumnSpan="4" Grid.Column="6" Grid.Row="1" Text="Поступление инвентаря" Margin="0,0,6,0"/>
-        <Button x:Name="btnSave" Content="Сохранить" Margin="6,16,3,5" Background="#FFACAAFF" FontFamily="Arial" FontSize="16" Foreground="Black"  Grid.Row="10" Grid.Column="3" Click="btnSave_Click" Grid.ColumnSpan="2" >
+        <Button x:Name="btnSave" Content="Сохранить" Margin="6,16,3,5" FontFamily="Arial" FontSize="16" Foreground="Black"  Grid.Row="10" Grid.Column="3" Click="btnSave_Click" Grid.ColumnSpan="2" >
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="7"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBox Grid.Column="2" IsReadOnly="True" HorizontalAlignment="Left" Grid.Row="3" TextWrapping="Wrap" Text="Наименование" Width="120" Background="#FFA5A5A5" Foreground="#FF656565" FontWeight="Bold" BorderBrush="Black" Grid.ColumnSpan="2"/>
         <TextBox Grid.Column="4" IsReadOnly="True"  Grid.Row="3" TextWrapping="Wrap" Text="Поступление" Background="#FFA5A5A5" Foreground="#FF656565" FontWeight="Bold" Grid.ColumnSpan="3" CaretBrush="#FF949494" BorderBrush="Black"/>

@@ -8,7 +8,13 @@
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen"
         Title="ContactCoordinator" Height="450" Width="600">
-    <Grid Background="#FFACAAFF">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF00FF9C"/>
+                <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+            </LinearGradientBrush>
+        </Grid.Background>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="21*"/>
             <ColumnDefinition Width="37*"/>

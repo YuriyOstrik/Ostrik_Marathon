@@ -24,40 +24,70 @@
             <ColumnDefinition Width="320"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Button Name="btn_editprofile" Content="Редактирование профиля" Margin="10,10,10,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="3"  Grid.Column="1" Click="btn_editprofile_Click">
+        <Button Name="btn_editprofile" Content="Редактирование профиля" Margin="10,10,10,0" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="3"  Grid.Column="1" Click="btn_editprofile_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button Name="btn_regmarathon" Content="Регистрация на &#xD;&#xA;марафон" Margin="10,10,10,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="2" Click="btn_regmarathon_Click" Grid.Column="1">
+        <Button Name="btn_regmarathon" Content="Регистрация на &#xD;&#xA;марафон" Margin="10,10,10,0" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="2" Click="btn_regmarathon_Click" Grid.Column="1">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btn_myresult" Content="Мои результаты" Margin="10,10,10,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="2"  Grid.Column="3" Click="btn_myresult_Click">
+        <Button x:Name="btn_myresult" Content="Мои результаты" Margin="10,10,10,0" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="2"  Grid.Column="3" Click="btn_myresult_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btn_sponsor" Content="Мой спонсор" Margin="10,10,10,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="3"  Grid.Column="3" Click="btn_sponsor_Click">
+        <Button x:Name="btn_sponsor" Content="Мой спонсор" Margin="10,10,10,0" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="3"  Grid.Column="3" Click="btn_sponsor_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
-        <Button x:Name="btn_contact" Content="Контакты" Margin="10,10,10,0" Background="#FFACAAFF" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="4" Grid.Column="1" Click="btn_contact_Click">
+        <Button x:Name="btn_contact" Content="Контакты" Margin="10,10,10,0" FontFamily="Arial" FontSize="22" Foreground="#FF474747" Height="70" VerticalAlignment="Top" FontStyle="Italic" Grid.Row="4" Grid.Column="1" Click="btn_contact_Click">
             <Button.Resources>
                 <Style TargetType="{x:Type Border}">
                     <Setter Property="CornerRadius" Value="14"/>
                 </Style>
             </Button.Resources>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
+                    <GradientStop Color="#FF00FF9C"/>
+                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
+                </LinearGradientBrush>
+            </Button.Background>
         </Button>
         <TextBlock HorizontalAlignment="Left" Margin="255,16,0,0" TextWrapping="Wrap" Text="Меню бегуна" VerticalAlignment="Top" FontSize="22" Foreground="#FF6C6C6C" Grid.Column="1" Grid.ColumnSpan="3" Grid.Row="1" TextAlignment="Center"/>
     </Grid>
