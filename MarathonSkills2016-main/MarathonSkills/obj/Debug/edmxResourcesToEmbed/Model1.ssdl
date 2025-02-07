@@ -40,9 +40,12 @@
       <PropertyRef Name="ID" />
     </Key>
     <Property Name="ID" Type="int" Nullable="false" />
-    <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
-    <Property Name="Count" Type="int" />
-    <Property Name="User" Type="nvarchar" MaxLength="100" />
+    <Property Name="Name" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="TypeA" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="TypeB" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="TypeC" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Need" Type="int" Nullable="false" />
+    <Property Name="Ostatok" Type="int" Nullable="false" />
   </EntityType>
   <EntityType Name="Marathon">
     <Key>
@@ -101,18 +104,12 @@
     <Property Name="version" Type="int" />
     <Property Name="definition" Type="varbinary(max)" />
   </EntityType>
-  <!--Ошибки, обнаруженные при создании:
-предупреждение 6002: В таблице или представлении "Marathon.dbo.User" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
   <EntityType Name="User">
     <Key>
       <PropertyRef Name="ID" />
-      <PropertyRef Name="Email" />
-      <PropertyRef Name="Password" />
-      <PropertyRef Name="Name" />
-      <PropertyRef Name="Surname" />
     </Key>
     <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="Email" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
     <Property Name="Password" Type="nvarchar" MaxLength="100" Nullable="false" />
     <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
     <Property Name="Surname" Type="nvarchar" MaxLength="100" Nullable="false" />
@@ -149,27 +146,7 @@
     <EntitySet Name="SponsorRunner" EntityType="Self.SponsorRunner" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="StatisticsMarathon" EntityType="Self.StatisticsMarathon" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Volunteer" EntityType="Self.Volunteer" Schema="dbo" store:Type="Tables" />
-    <EntitySet Name="User" EntityType="Self.User" store:Type="Tables" store:Schema="dbo">
-      <DefiningQuery>SELECT 
-    [User].[ID] AS [ID], 
-    [User].[Email] AS [Email], 
-    [User].[Password] AS [Password], 
-    [User].[Name] AS [Name], 
-    [User].[Surname] AS [Surname], 
-    [User].[Gender] AS [Gender], 
-    [User].[Photo] AS [Photo], 
-    [User].[Role] AS [Role], 
-    [User].[DateOfBirth] AS [DateOfBirth], 
-    [User].[ID_Marathon] AS [ID_Marathon], 
-    [User].[ID_Inventory] AS [ID_Inventory], 
-    [User].[ID_Fund] AS [ID_Fund], 
-    [User].[Country] AS [Country], 
-    [User].[Payment] AS [Payment], 
-    [User].[Fund] AS [Fund], 
-    [User].[Inventory] AS [Inventory], 
-    [User].[StatisticsMarathon] AS [StatisticsMarathon]
-    FROM [dbo].[User] AS [User]</DefiningQuery>
-    </EntitySet>
   </EntityContainer>
 </Schema>

@@ -16,7 +16,10 @@ namespace MarathonSkills
     {
         public int ID { get; set; }
         public string Name { get; set; }
-        public Nullable<int> Count { get; set; }
-        public string User { get; set; }
+        public string TypeA { get; set; }
+        public string TypeB { get; set; }
+        public string TypeC { get; set; }
+        public int Need { get; set; }
+        public int Ostatok { get; set; }
     }
 }

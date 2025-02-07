@@ -64,7 +64,7 @@ namespace MarathonSkills.Admin
                             TypeB = cnt2,
                             TypeC = cnt3,
                             Need = cnt + cnt2 + cnt3,
-                            ostatok = (int)(b.Count - (cnt + cnt2 + cnt3)),
+                            ostatok = (int)(b.Ostatok - (cnt + cnt2 + cnt3)),
                         });
                     }
                     if (s == "RFID браслет")
@@ -76,7 +76,7 @@ namespace MarathonSkills.Admin
                             TypeB = cnt2,
                             TypeC = cnt3,
                             Need = cnt + cnt2 + cnt3,
-                            ostatok = (int)(b.Count - (cnt + cnt2 + cnt3)),
+                            ostatok = (int)(b.Ostatok - (cnt + cnt2 + cnt3)),
                         });
                     }
                     if (s == "Бейсболка")
@@ -87,7 +87,7 @@ namespace MarathonSkills.Admin
                             TypeB = cnt2,
                             TypeC = cnt3,
                             Need = cnt2 + cnt3,
-                            ostatok = (int)(b.Count - (cnt2 + cnt3)),
+                            ostatok = (int)(b.Ostatok - (cnt2 + cnt3)),
                         });
                     }
                     if (s == "Бутылка воды")
@@ -98,7 +98,7 @@ namespace MarathonSkills.Admin
                             TypeB = cnt2,
                             TypeC = cnt3,
                             Need = cnt2 + cnt3,
-                            ostatok = (int)(b.Count - (cnt2 + cnt3)),
+                            ostatok = (int)(b.Ostatok - (cnt2 + cnt3)),
                         });
                     }
                     if (s == "Футболка")
@@ -108,7 +108,7 @@ namespace MarathonSkills.Admin
                             Name = "Футболка",
                             TypeC = cnt3,
                             Need = cnt3,
-                            ostatok = (int)(b.Count - (cnt3)),
+                            ostatok = (int)(b.Ostatok - (cnt3)),
                         });
                     }
                     if (s == "Сувенирный буклет")
@@ -118,7 +118,7 @@ namespace MarathonSkills.Admin
                             Name = "Сувенирный буклет",
                             TypeC = cnt3,
                             Need = cnt3,
-                            ostatok = (int)(b.Count - (cnt3)),
+                            ostatok = (int)(b.Ostatok - (cnt3)),
                         });
                     }
                 }

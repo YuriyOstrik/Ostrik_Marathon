@@ -34,7 +34,7 @@ namespace MarathonSkills
         public virtual DbSet<SponsorRunner> SponsorRunner { get; set; }
         public virtual DbSet<StatisticsMarathon> StatisticsMarathon { get; set; }
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
-        public virtual DbSet<Volunteer> Volunteer { get; set; }
         public virtual DbSet<User> User { get; set; }
+        public virtual DbSet<Volunteer> Volunteer { get; set; }
     }
 }

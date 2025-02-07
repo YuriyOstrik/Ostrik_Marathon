@@ -3,8 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\runner\\regrunner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\runner\\regrunner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\admincontroller\\admissioninventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\admincontroller\\admissioninventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\admincontroller\\admissioninventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\admincontroller\\admissioninventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\admin\\inventorymarathon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\admin\\inventorymarathon.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\admin\\inventorymarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\admin\\inventorymarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\admin\\inventorymarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\admin\\inventorymarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\choicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\choicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\choicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\choicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\info\\listfund.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\info\\listfund.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\info\\listfund.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\info\\listfund.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ostri\\Downloads\\Icons8-Ios7-Sports-Exercise.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\runner\\regrunner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills2025.csproj|solutionrelative:marathonskills\\runner\\regrunner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\runner\\regrunner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -15,24 +66,12 @@
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\runner\\regmarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|c:\\users\\ostri\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\ostrik_marathon\\marathonskills2016-main\\marathonskills\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\choicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\choicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\info\\howlongs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\info\\howlongs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\info\\howlongs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\info\\howlongs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\info\\listfund.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\info\\listfund.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\info\\listfund.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -57,10 +96,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\admin\\managecharities.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\admin\\managecharities.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\admin\\inventorymarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\admin\\inventorymarathon.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\admin\\adminmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -155,10 +190,6 @@
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\admincontroller\\admissioninventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\admincontroller\\admissioninventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\admincontroller\\admissioninventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -181,10 +212,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\coordinator\\managrunner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\coordinator\\managrunner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|solutionrelative:marathonskills\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAF3E97D-5C8F-4B29-8494-DF1F60323CCD}|MarathonSkills\\MarathonSkills.csproj|C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\marathonskills\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -302,22 +329,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ListFund.xaml",
-              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml",
-              "RelativeDocumentMoniker": "MarathonSkills\\Info\\ListFund.xaml",
-              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml",
-              "RelativeToolTip": "MarathonSkills\\Info\\ListFund.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T16:34:12.251Z"
+              "DocumentIndex": 0,
+              "Title": "AdmissionInventory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "RelativeToolTip": "MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:12:18.186Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Model1.edmx",
+              "RelativeDocumentMoniker": "MarathonSkills\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MarathonSkills\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-07T13:10:54.119Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryMarathon.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml.cs",
+              "RelativeDocumentMoniker": "MarathonSkills\\Admin\\InventoryMarathon.xaml.cs",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml.cs",
+              "RelativeToolTip": "MarathonSkills\\Admin\\InventoryMarathon.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAewHUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T12:48:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Icons8-Ios7-Sports-Exercise.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\ostri\\Downloads\\Icons8-Ios7-Sports-Exercise.ico",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Icons8-Ios7-Sports-Exercise.ico",
+              "ToolTip": "C:\\Users\\ostri\\Downloads\\Icons8-Ios7-Sports-Exercise.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Icons8-Ios7-Sports-Exercise.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-02-07T11:27:06.535Z",
+              "EditorCaption": " - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ListFund.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\ListFund.xaml.cs",
@@ -329,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "MyResults.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\MyResults.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\MyResults.xaml",
@@ -340,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "HowLongs.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\HowLongs.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\HowLongs.xaml",
@@ -351,7 +417,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdmissionInventory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "RelativeToolTip": "MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:11:09.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryMarathon.xaml",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "RelativeDocumentMoniker": "MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "RelativeToolTip": "MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-07T12:43:21.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryMarathon.xaml",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "RelativeDocumentMoniker": "MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "RelativeToolTip": "MarathonSkills\\Admin\\InventoryMarathon.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:20:36.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MarathonSkills\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\MainWindow.xaml",
+              "RelativeToolTip": "MarathonSkills\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-07T11:30:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListFund.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml.cs",
+              "RelativeDocumentMoniker": "MarathonSkills\\Info\\ListFund.xaml.cs",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml.cs",
+              "RelativeToolTip": "MarathonSkills\\Info\\ListFund.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:27:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ChoicePage.xaml",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\ChoicePage.xaml",
+              "RelativeDocumentMoniker": "MarathonSkills\\ChoicePage.xaml",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\ChoicePage.xaml",
+              "RelativeToolTip": "MarathonSkills\\ChoicePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-07T11:30:30.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "HowLongs.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\HowLongs.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\HowLongs.xaml.cs",
@@ -363,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ChoicePage.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\ChoicePage.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\ChoicePage.xaml",
@@ -374,19 +512,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\MainWindow.xaml",
               "RelativeToolTip": "MarathonSkills\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T16:19:19.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T16:19:19.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "PerviousResult.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\PerviousResult.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\PerviousResult.xaml",
@@ -397,31 +534,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "RegMarathon.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegMarathon.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RegMarathon.xaml",
               "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegMarathon.xaml",
               "RelativeToolTip": "MarathonSkills\\Runner\\RegMarathon.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T14:10:16.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T14:10:16.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "RegRunner.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegRunner.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RegRunner.xaml",
               "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegRunner.xaml",
               "RelativeToolTip": "MarathonSkills\\Runner\\RegRunner.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T16:40:02.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T16:40:02.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "RegRunner.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegRunner.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RegRunner.xaml.cs",
@@ -434,7 +569,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
+              "Title": "ListFund.xaml",
+              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml",
+              "RelativeDocumentMoniker": "MarathonSkills\\Info\\ListFund.xaml",
+              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\ListFund.xaml",
+              "RelativeToolTip": "MarathonSkills\\Info\\ListFund.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-06T16:34:12.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "InteractiveMap.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\InteractiveMap.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\InteractiveMap.xaml",
@@ -445,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "InfoMenu.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\InfoMenu.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\InfoMenu.xaml",
@@ -456,7 +602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "ManageCharities.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\ManageCharities.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\ManageCharities.xaml",
@@ -467,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "AdminEditUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\AdminEditUser.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\AdminEditUser.xaml.cs",
@@ -479,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "AdminMenu.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\AdminMenu.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\AdminMenu.xaml",
@@ -490,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "MySponsor.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\MySponsor.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\MySponsor.xaml",
@@ -501,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Pay.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Sponsor\\Pay.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Sponsor\\Pay.xaml",
@@ -512,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "RunnerMenu.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RunnerMenu.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RunnerMenu.xaml",
@@ -523,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "ContactCoordinator.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\ContactCoordinator.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\ContactCoordinator.xaml",
@@ -534,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 51,
               "Title": "EditUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\EditUser.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\EditUser.xaml.cs",
@@ -546,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "marathon-skills-2016-marathon-map.jpg",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\marathon-skills-2016-marathon-map.jpg",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\marathon-skills-2016-marathon-map.jpg",
@@ -557,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "RegConfirm.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegConfirm.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RegConfirm.xaml",
@@ -568,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\MainWindow.xaml.cs",
@@ -580,18 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InventoryMarathon.xaml",
-              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml",
-              "RelativeDocumentMoniker": "MarathonSkills\\Admin\\InventoryMarathon.xaml",
-              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\InventoryMarathon.xaml",
-              "RelativeToolTip": "MarathonSkills\\Admin\\InventoryMarathon.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T16:20:36.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "ThanksPay.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Sponsor\\ThanksPay.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Sponsor\\ThanksPay.xaml",
@@ -602,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "AuthRunner.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\AuthRunner.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\AuthRunner.xaml",
@@ -613,19 +748,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\App.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\App.xaml",
               "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\App.xaml",
               "RelativeToolTip": "MarathonSkills\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-06T16:19:29.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T16:19:29.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "Pay.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Sponsor\\Pay.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Sponsor\\Pay.xaml.cs",
@@ -637,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 50,
               "Title": "RegMarathon.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegMarathon.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RegMarathon.xaml.cs",
@@ -649,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "UserManagement.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\UserManagement.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\UserManagement.xaml",
@@ -660,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "BMRcalculator.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\BMRcalculator.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\BMRcalculator.xaml",
@@ -671,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "AuthRegRunner.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\AuthRegRunner.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\AuthRegRunner.xaml",
@@ -682,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "BMIcalculator.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\BMIcalculator.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\BMIcalculator.xaml",
@@ -693,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "ImportVolunteers.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\ImportVolunteers.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\ImportVolunteers.xaml",
@@ -704,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "EditProfile.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\EditProfile.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\EditProfile.xaml",
@@ -715,7 +849,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "ShowFund.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\ShowFund.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\ShowFund.xaml",
@@ -726,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "AdminEditUser.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\AdminEditUser.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\AdminEditUser.xaml",
@@ -737,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 41,
               "Title": "MenuCoordinator.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\MenuCoordinator.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\MenuCoordinator.xaml",
@@ -748,7 +882,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "EditUser.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\EditUser.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\EditUser.xaml",
@@ -759,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "AdmissionInventory.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\AdmissionInventory.xaml",
@@ -770,19 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "AdmissionInventory.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
-              "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
-              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
-              "RelativeToolTip": "MarathonSkills\\AdminController\\AdmissionInventory.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowBYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T12:11:09.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "EditCharity.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\EditCharity.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\EditCharity.xaml",
@@ -793,7 +915,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "ManagRunner.xaml",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\ManagRunner.xaml",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\ManagRunner.xaml",
@@ -804,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 55,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\App.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\App.xaml.cs",
@@ -816,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 52,
               "Title": "ManagRunner.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\ManagRunner.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\ManagRunner.xaml.cs",
@@ -828,7 +950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 56,
               "Title": "MySponsor.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\MySponsor.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\MySponsor.xaml.cs",
@@ -840,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 54,
               "Title": "PerviousResult.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\PerviousResult.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\PerviousResult.xaml.cs",
@@ -852,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 53,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\App.config",
               "RelativeDocumentMoniker": "MarathonSkills\\App.config",
@@ -864,18 +986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Model1.edmx",
-              "RelativeDocumentMoniker": "MarathonSkills\\Model1.edmx",
-              "ToolTip": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "MarathonSkills\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-02-06T13:34:57.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 59,
               "Title": "RunnerMenu.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RunnerMenu.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RunnerMenu.xaml.cs",
@@ -887,7 +998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 58,
               "Title": "ThanksPay.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Sponsor\\ThanksPay.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Sponsor\\ThanksPay.xaml.cs",
@@ -899,7 +1010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 57,
               "Title": "ChoicePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\ChoicePage.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\ChoicePage.xaml.cs",
@@ -911,7 +1022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 60,
               "Title": "RegConfirm.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\RegConfirm.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\RegConfirm.xaml.cs",
@@ -923,7 +1034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 61,
               "Title": "MyResults.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\MyResults.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\MyResults.xaml.cs",
@@ -935,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 62,
               "Title": "EditProfile.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\EditProfile.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\EditProfile.xaml.cs",
@@ -947,7 +1058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 63,
               "Title": "ContactCoordinator.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\ContactCoordinator.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\ContactCoordinator.xaml.cs",
@@ -959,7 +1070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 64,
               "Title": "AuthRunner.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\AuthRunner.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\AuthRunner.xaml.cs",
@@ -971,7 +1082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 65,
               "Title": "AuthRegRunner.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Runner\\AuthRegRunner.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Runner\\AuthRegRunner.xaml.cs",
@@ -983,7 +1094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 66,
               "Title": "InteractiveMap.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\InteractiveMap.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\InteractiveMap.xaml.cs",
@@ -995,7 +1106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 67,
               "Title": "InfoMenu.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\InfoMenu.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\InfoMenu.xaml.cs",
@@ -1007,7 +1118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 68,
               "Title": "BMRcalculator.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\BMRcalculator.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\BMRcalculator.xaml.cs",
@@ -1019,7 +1130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 69,
               "Title": "BMIcalculator.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Info\\BMIcalculator.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Info\\BMIcalculator.xaml.cs",
@@ -1031,7 +1142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 70,
               "Title": "ShowFund.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\ShowFund.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\ShowFund.xaml.cs",
@@ -1043,7 +1154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 71,
               "Title": "MenuCoordinator.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Coordinator\\MenuCoordinator.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Coordinator\\MenuCoordinator.xaml.cs",
@@ -1055,7 +1166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 72,
               "Title": "ImportVolunteers.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\ImportVolunteers.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\ImportVolunteers.xaml.cs",
@@ -1067,7 +1178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 73,
               "Title": "EditCharity.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\EditCharity.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\EditCharity.xaml.cs",
@@ -1079,7 +1190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 75,
               "Title": "AddCharity.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AddCharity.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\AddCharity.xaml.cs",
@@ -1091,7 +1202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 76,
               "Title": "VolunteerManagement.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\VolunteerManagement.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\VolunteerManagement.xaml.cs",
@@ -1103,7 +1214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 77,
               "Title": "UserManagement.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\UserManagement.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\UserManagement.xaml.cs",
@@ -1115,7 +1226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 78,
               "Title": "ManageCharities.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\ManageCharities.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\ManageCharities.xaml.cs",
@@ -1127,7 +1238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 79,
               "Title": "AdminMenu.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\Admin\\AdminMenu.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\Admin\\AdminMenu.xaml.cs",
@@ -1139,7 +1250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 74,
               "Title": "AddNewUser.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ostri\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\Ostrik_Marathon\\MarathonSkills2016-main\\MarathonSkills\\AdminController\\AddNewUser.xaml.cs",
               "RelativeDocumentMoniker": "MarathonSkills\\AdminController\\AddNewUser.xaml.cs",
