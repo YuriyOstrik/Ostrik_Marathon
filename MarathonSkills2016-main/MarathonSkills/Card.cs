@@ -20,6 +20,7 @@ namespace MarathonSkills
         public string NumCard { get; set; }
         public string TimeEnd { get; set; }
         public string CVC { get; set; }
-        public Nullable<int> SponsorRunnerID { get; set; }
+    
+        public virtual SponsorRunner SponsorRunner { get; set; }
     }
 }

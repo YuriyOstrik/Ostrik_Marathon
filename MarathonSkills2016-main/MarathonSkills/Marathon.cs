@@ -14,6 +14,13 @@ namespace MarathonSkills
     
     public partial class Marathon
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Marathon()
+        {
+            this.StatisticsMarathon = new HashSet<StatisticsMarathon>();
+            this.MarathonMap = new HashSet<MarathonMap>();
+        }
+    
         public int ID { get; set; }
         public string Name { get; set; }
         public System.DateTime Date { get; set; }
@@ -21,5 +28,10 @@ namespace MarathonSkills
         public string Country { get; set; }
         public Nullable<double> Distance { get; set; }
         public Nullable<decimal> Price { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<StatisticsMarathon> StatisticsMarathon { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<MarathonMap> MarathonMap { get; set; }
     }
 }

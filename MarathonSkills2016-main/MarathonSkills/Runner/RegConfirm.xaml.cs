@@ -25,9 +25,5 @@ namespace MarathonSkills.Runner
             InitializeComponent();
         }
 
-        private void btn_cancel_Click(object sender, RoutedEventArgs e)
-        {
-            this.NavigationService.Navigate(new Uri("Runner/RunnerMenu.xaml", UriKind.Relative));
-        }
     }
 }

@@ -14,6 +14,12 @@ namespace MarathonSkills
     
     public partial class Inventory
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public Inventory()
+        {
+            this.User = new HashSet<User>();
+        }
+    
         public int ID { get; set; }
         public string Name { get; set; }
         public string TypeA { get; set; }
@@ -21,5 +27,8 @@ namespace MarathonSkills
         public string TypeC { get; set; }
         public int Need { get; set; }
         public int Ostatok { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<User> User { get; set; }
     }
 }

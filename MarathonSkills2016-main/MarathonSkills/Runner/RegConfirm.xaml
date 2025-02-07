@@ -38,19 +38,6 @@
             <TextBlock HorizontalAlignment="Left" Margin="71,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" Foreground="#FF6C6C6C" TextAlignment="Center" Width="462"><Run Text="Спасибо за вашу "/><Run Text="регистрацию в качестве бегуна"/><Run Text="!"/></TextBlock>
             <TextBlock HorizontalAlignment="Left" Margin="22,76,0,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" Width="546" TextAlignment="Center" Foreground="#FF6C6C6C" Height="46"><Run Text="Спасибо за "/><Run Text="регистрацию в качестве "/><Run Text="бегуна "/><Run Text="в"/><Run Text=" "/><Run Text="Marathon Skills 2025!"/><LineBreak/><Run Text="С вами свяжутся по поводу оплаты."/></TextBlock>
         </Grid>
-        <Button x:Name="btn_cancel" Content="ОК" FontFamily="Open Sans Light" FontSize="14" Foreground="#FF474747" Height="24" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="5" Margin="95,0,98,0" Click="btn_cancel_Click">
-            <Button.Resources>
-                <Style TargetType="{x:Type Border}">
-                    <Setter Property="CornerRadius" Value="7"/>
-                </Style>
-            </Button.Resources>
-            <Button.Background>
-                <LinearGradientBrush EndPoint="0,-2" StartPoint="1,1">
-                    <GradientStop Color="#FF00FF9C"/>
-                    <GradientStop Color="#FFAAABFF" Offset="0.767"/>
-                </LinearGradientBrush>
-            </Button.Background>
-        </Button>
 
     </Grid>
 </Page>

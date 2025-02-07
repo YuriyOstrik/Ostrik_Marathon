@@ -211,6 +211,9 @@
     <Compile Include="Sponsor\ThanksPay.xaml.cs">
       <DependentUpon>ThanksPay.xaml</DependentUpon>
     </Compile>
+    <Compile Include="StatisticsMarathon.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
     <Compile Include="sysdiagrams.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>

@@ -15,12 +15,14 @@ namespace MarathonSkills
     public partial class StatisticsMarathon
     {
         public int ID { get; set; }
-        public int ID_Marathon { get; set; }
-        public int ID_User { get; set; }
-        public System.DateTime Time { get; set; }
-        public System.DateTime GeneralTime { get; set; }
-        public int MyPlace { get; set; }
-        public string Marathon { get; set; }
-        public string User { get; set; }
+        public Nullable<int> ID_Marathon { get; set; }
+        public Nullable<int> ID_User { get; set; }
+        public Nullable<System.TimeSpan> Time { get; set; }
+        public Nullable<System.TimeSpan> GeneralTime { get; set; }
+        public Nullable<int> MyPlace { get; set; }
+        public Nullable<int> MarathonID { get; set; }
+    
+        public virtual User User { get; set; }
+        public virtual Marathon Marathon { get; set; }
     }
 }

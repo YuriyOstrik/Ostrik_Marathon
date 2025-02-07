@@ -28,8 +28,11 @@ namespace MarathonSkills
         public Nullable<int> ID_Fund { get; set; }
         public string Country { get; set; }
         public Nullable<decimal> Payment { get; set; }
-        public string Fund { get; set; }
-        public string Inventory { get; set; }
-        public string StatisticsMarathon { get; set; }
+        public Nullable<int> FundID { get; set; }
+        public Nullable<int> InventoryID { get; set; }
+    
+        public virtual StatisticsMarathon StatisticsMarathon { get; set; }
+        public virtual Fund Fund { get; set; }
+        public virtual Inventory Inventory { get; set; }
     }
 }

@@ -10,7 +10,6 @@
           <ScalarProperty Name="NumCard" ColumnName="NumCard" />
           <ScalarProperty Name="TimeEnd" ColumnName="TimeEnd" />
           <ScalarProperty Name="CVC" ColumnName="CVC" />
-          <ScalarProperty Name="SponsorRunnerID" ColumnName="SponsorRunnerID" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -24,7 +23,6 @@
           <ScalarProperty Name="Logo" ColumnName="Logo" />
           <ScalarProperty Name="ID_Sponsor" ColumnName="ID_Sponsor" />
           <ScalarProperty Name="SponsorRunner" ColumnName="SponsorRunner" />
-          <ScalarProperty Name="User" ColumnName="User" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -72,7 +70,6 @@
           <ScalarProperty Name="ID_Marathon" ColumnName="ID_Marathon" />
           <ScalarProperty Name="CheckP" ColumnName="CheckP" />
           <ScalarProperty Name="Description" ColumnName="Description" />
-          <ScalarProperty Name="Marathon" ColumnName="Marathon" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -81,11 +78,18 @@
         <MappingFragment StoreEntitySet="SponsorRunner">
           <ScalarProperty Name="ID" ColumnName="ID" />
           <ScalarProperty Name="Name" ColumnName="Name" />
-          <ScalarProperty Name="Card" ColumnName="Card" />
-          <ScalarProperty Name="Fund" ColumnName="Fund" />
-          <ScalarProperty Name="Amount" ColumnName="Amount" />
-          <ScalarProperty Name="Date" ColumnName="Date" />
-          <ScalarProperty Name="Notes" ColumnName="Notes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatisticsMarathon">
+      <EntityTypeMapping TypeName="MarathonModel.StatisticsMarathon">
+        <MappingFragment StoreEntitySet="StatisticsMarathon">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_Marathon" ColumnName="ID_Marathon" />
+          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="GeneralTime" ColumnName="GeneralTime" />
+          <ScalarProperty Name="MyPlace" ColumnName="MyPlace" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
@@ -117,9 +121,6 @@
           <ScalarProperty Name="ID_Fund" ColumnName="ID_Fund" />
           <ScalarProperty Name="Country" ColumnName="Country" />
           <ScalarProperty Name="Payment" ColumnName="Payment" />
-          <ScalarProperty Name="Fund" ColumnName="Fund" />
-          <ScalarProperty Name="Inventory" ColumnName="Inventory" />
-          <ScalarProperty Name="StatisticsMarathon" ColumnName="StatisticsMarathon" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>
