@@ -1,4 +1,3 @@
-ostrik384@gmail.com
 ivan.ivanov@example.com
 olga.petrova@example.com
 dmitry.sidorov@example.com
@@ -6,4 +5,4 @@ anna.smirnova@example.com
 sergey.kuznetsov@example.com
 victor.ilin@example.com
 ekaterina.gromova@example.com
-vladimir.melnikov@example.com
+user@user.user

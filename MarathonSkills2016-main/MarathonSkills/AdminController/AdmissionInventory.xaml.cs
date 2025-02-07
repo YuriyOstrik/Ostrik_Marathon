@@ -32,21 +32,21 @@ namespace MarathonSkills.AdminController
             {
                 if(txbNumber.Text != "")
                 {
-                    int count = Convert.ToInt32(txbNumber.Text);
-                    int countref = (int)db.Inventory.Where(x => x.ID == 1).Select(x => x.Ostatok).SingleOrDefault();
-                    db.Database.ExecuteSqlCommand($"UPDATE Inventory SET Count={countref + count} WHERE ID=1");
+                    int Ostatok = Convert.ToInt32(txbNumber.Text);
+                    int countref = (int)db.Inventory.Where(x => x.ID == 1).Select(x => x.Need).SingleOrDefault();
+                    db.Database.ExecuteSqlCommand($"UPDATE Inventory SET Ostatok={countref + Ostatok} WHERE ID=1");
                 }
                 if(txbBase.Text != "")
                 {
-                    int count = Convert.ToInt32(txbBase.Text);
-                    int countref = (int)db.Inventory.Where(x => x.ID == 2).Select(x => x.Ostatok).SingleOrDefault();
-                    db.Database.ExecuteSqlCommand($"UPDATE Inventory SET Count={countref + count} WHERE ID=2");
+                    int Ostatok = Convert.ToInt32(txbBase.Text);
+                    int countref = (int)db.Inventory.Where(x => x.ID == 2).Select(x => x.Need).SingleOrDefault();
+                    db.Database.ExecuteSqlCommand($"UPDATE Inventory SET Ostatok={countref + Ostatok} WHERE ID=2");
                 }
                 if (txbPolo.Text != "")
                 {
-                    int count = Convert.ToInt32(txbPolo.Text);
-                    int countref = (int)db.Inventory.Where(x => x.ID == 3).Select(x => x.Ostatok).SingleOrDefault();
-                    db.Database.ExecuteSqlCommand($"UPDATE Inventory SET Count={countref + count} WHERE ID=3");
+                    int Ostatok = Convert.ToInt32(txbPolo.Text);
+                    int countref = (int)db.Inventory.Where(x => x.ID == 3).Select(x => x.Need).SingleOrDefault();
+                    db.Database.ExecuteSqlCommand($"UPDATE Inventory SET Ostatok={countref + Ostatok} WHERE ID=3");
                 }
             }
             else 
