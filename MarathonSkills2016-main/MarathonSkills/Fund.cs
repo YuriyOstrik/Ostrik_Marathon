@@ -14,12 +14,6 @@ namespace MarathonSkills
     
     public partial class Fund
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Fund()
-        {
-            this.User = new HashSet<User>();
-        }
-    
         public int ID { get; set; }
         public string Name { get; set; }
         public Nullable<decimal> Money { get; set; }
@@ -27,9 +21,6 @@ namespace MarathonSkills
         public byte[] Logo { get; set; }
         public Nullable<int> ID_Sponsor { get; set; }
         public string SponsorRunner { get; set; }
-    
-        public virtual SponsorRunner SponsorRunner1 { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<User> User { get; set; }
+        public string User { get; set; }
     }
 }

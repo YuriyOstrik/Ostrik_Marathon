@@ -18,8 +18,6 @@ namespace MarathonSkills
         public Nullable<int> ID_Marathon { get; set; }
         public string CheckP { get; set; }
         public string Description { get; set; }
-        public Nullable<int> MarathonID { get; set; }
-    
-        public virtual Marathon Marathon { get; set; }
+        public string Marathon { get; set; }
     }
 }

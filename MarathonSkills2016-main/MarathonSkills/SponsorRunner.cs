@@ -14,19 +14,12 @@ namespace MarathonSkills
     
     public partial class SponsorRunner
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public SponsorRunner()
-        {
-            this.Card = new HashSet<Card>();
-            this.Fund = new HashSet<Fund>();
-        }
-    
         public int ID { get; set; }
         public string Name { get; set; }
-    
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Card> Card { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Fund> Fund { get; set; }
+        public string Card { get; set; }
+        public string Fund { get; set; }
+        public decimal Amount { get; set; }
+        public System.DateTime Date { get; set; }
+        public string Notes { get; set; }
     }
 }

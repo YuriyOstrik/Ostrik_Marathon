@@ -451,6 +451,9 @@
     <Resource Include="3325yherb.png" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="XMLFile1.xml" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>Model1.edmx</DependentUpon>

@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "C:\Users\ostri\OneDrive\Документы\GitHub\Ostrik_Marathon\MarathonSkills2016-main\MarathonSkills\Model1.edmx" включено. 
+﻿// Создание кода T4 для модели "C:\Users\ostri\OneDrive\Desktop\raraf\Ostrik_Marathon-6874d0e1908d5a547f063d296e8f8ad74aa44365\MarathonSkills2016-main\MarathonSkills\Model1.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.
